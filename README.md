@@ -1,4 +1,4 @@
-# Configuración de Vim
+# Configuración de Neovim y Vim
 
 Esta es una configuración personalizada de Vim que incluye ajustes para mejorar la experiencia de edición, navegación y personalización del editor de texto.
 
@@ -60,6 +60,7 @@ Esta es una configuración personalizada de Vim que incluye ajustes para mejorar
 ## Recursos adicionales
 
 - [Documentación oficial de Vim](https://www.vim.org/docs.php)
+- [Documentación oficial de Neovim](https://neovim.io/doc/)
 - [Tema Oceanic Material para Vim](https://github.com/morhetz/gruvbox)
 
 ## Licencia
